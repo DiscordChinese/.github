@@ -15,13 +15,13 @@
 
 <p align="center">
   <a href="https://discord.gg/s4RtxQHdUV">
-    <img src="https://img.shields.io/badge/Discord-加入社区-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord">
+    <img src="https://img.shields.io/badge/Discord-加入社区 Join Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord">
   </a>
   <a href="https://discordchinese.qzz.io">
-    <img src="https://img.shields.io/badge/官方网站-discordchinese.qzz.io-0E0F12?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/官方网站 Official Website-discordchinese.qzz.io-0E0F12?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
   <br>
-  <img src="https://img.shields.io/badge/社区成员-9,000+-brightgreen?style=flat-square&logo=discord" alt="Members">
+  <img src="https://img.shields.io/badge/社区成员 People's In Discord-9,000+-brightgreen?style=flat-square&logo=discord" alt="Members">
   <img src="https://img.shields.io/badge/开源项目-Open_Source-blue?style=flat-square&logo=github" alt="Open Source">
 </p>
 
@@ -79,5 +79,5 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=100&section=footer" width="100%"/>
-  © 2026 Discord Chinese 开源社区
+ © 2026 Discord Chinese 开源社区
 </p>
