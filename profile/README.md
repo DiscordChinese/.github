@@ -45,11 +45,8 @@
 *In this GitHub organization, we will gradually open-source our community's infrastructure to share with all developers and learners:*
 
 - 🌐 **[官方网站源码（Official Website Soucre Code）](https://github.com/DiscordChinese/discordchinese.github.io)**
-  - 包含 `discordchinese.qzz.io` 的完整源码（HTML/CSS/静态资源）。
+  - 包含 [`discordchinese.qzz.io`](https://discordchinese.qzz.io) 的完整源码（HTML/CSS/静态资源）。
   - *Contains the complete source code of our official website.*
-- 📚 **学习资源共建 (Collaborative Study Resources)** *(Coming Soon)*
-  - 社区成员共同维护的 Markdown 格式中文学习指南和词汇表。
-  - *Community-maintained Chinese learning guides and vocabulary lists in Markdown.*
 
 ---
 
