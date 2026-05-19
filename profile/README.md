@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/官方网站 Official Website-discordchinese.qzz.io-0E0F12?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
   <br>
-  <img src="https://img.shields.io/badge/社区成员 People's In Discord-9,000+-brightgreen?style=flat-square&logo=discord" alt="Members">
+  <img src="https://img.shields.io/badge/社区成员 People's In Discord-10,000+-brightgreen?style=flat-square&logo=discord" alt="Members">
   <img src="https://img.shields.io/badge/开源项目-Open_Source-blue?style=flat-square&logo=github" alt="Open Source">
 </p>
 
