@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://discordchinese.qzz.io/images/discord-chinese.png" alt="Discord Chinese Logo" width="150" height="150" style="border-radius: 30px;">
+  <img src="https://raw.githubusercontent.com/DiscordChinese/discordchinese.github.io/refs/heads/main/images/discord-chinese.png" alt="Discord Chinese Logo" width="150" height="150" style="border-radius: 30px;">
 </p>
 
 <h1 align="center">
